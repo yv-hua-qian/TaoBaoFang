@@ -8,6 +8,7 @@ class TaoBaoFangApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("小测试");
     }
 
 }
